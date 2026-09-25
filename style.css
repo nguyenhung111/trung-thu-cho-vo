@@ -197,7 +197,7 @@ body {
 
 /* Little heart on polaroid */
 .photo-frame::after {
-    content: 'grape & elliz ❤️';
+    content: 'Grape & Elliz ❤️';
     position: absolute;
     bottom: 8px;
     right: 15px;
